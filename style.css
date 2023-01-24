@@ -141,10 +141,8 @@ footer{
 main{
     width: 100%;
 }
-body{
+html{
     scroll-behavior: smooth;
-    scroll-margin: 0px;
-    overflow-y: scroll;
 }
 @media (min-width: 300px) {
     article{
